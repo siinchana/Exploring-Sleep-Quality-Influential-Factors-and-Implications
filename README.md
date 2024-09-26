@@ -1,5 +1,4 @@
 # Exploring-Sleep-Quality-Influential-Factors-and-Implications
-This project investigates sleep quality by applying advanced machine learning techniques like Principal Component Analysis (PCA), Support Vector Machines (SVM), and Association Rule Mining. It aims to identify key variables affecting sleep quality and disorders, with a focus on actionable insights for healthcare interventions and lifestyle improvements.
 ### Python, Machine Learning, and Data Visualization
 
 This project investigates sleep quality by applying advanced machine learning techniques like Principal Component Analysis (PCA), Support Vector Machines (SVM), and Association Rule Mining. It aims to identify key variables affecting sleep quality and disorders, with a focus on actionable insights for healthcare interventions and lifestyle improvements.
