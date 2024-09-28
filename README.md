@@ -55,7 +55,7 @@ The analysis identified the following key findings:
 - Stress level and BMI were found to be strong indicators of sleep disorders.
 - Occupation had a notable impact on health metrics such as blood pressure and heart rate.
 
-Visualizations of these findings can be found in the `visualizations/` folder.
+
 
 ## Dataset
 The dataset used in this research is publicly available on Kaggle:
