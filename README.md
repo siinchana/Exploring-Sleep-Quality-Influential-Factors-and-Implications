@@ -62,7 +62,8 @@ The dataset used in this research is publicly available on Kaggle:
 - [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 ## Publication
-This research was presented at HINT 24, Manipal Institute of Technology, and has been accepted for publication by Springer, pending final review.
+This research has been published as a chapter in the Springer book Advances in Computing and Data Sciences. You can view it here: Springer Book Link(https://book-promotion-toolkit.springernature.com/book/OTc4LTk4MS05Ni00MDA4LTk=)
+
 
 ## Contributors
 - **Sinchana HR** (Lead Researcher)
